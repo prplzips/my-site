@@ -21,7 +21,12 @@
     font-family: 'ChesnaGroteskMedium';
     padding-bottom: 10px;
   }
-  
+
+  #img {
+    height: 100px; 
+    width: 100px; 
+  }
+
   .navbar-nav .npav-link {
     font-family: 'MinimaSimpleRegular';
   }
@@ -42,14 +47,13 @@
   }
 
   .footer {
-    position: absolute;
-    text-align: center;
-    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 30px;
     width: 100%;
-    height: 2.5rem; 
-    padding-bottom: 10px;
+    color: white;
+    text-align: center;
   }
-
 
   
   
