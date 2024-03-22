@@ -44,10 +44,13 @@ a {
 .footer {
   position: fixed;
   left: 0;
-  bottom: 30px;
+  bottom: 0;
+  padding-bottom: 15px;
   width: 100%;
   color: white;
   text-align: center;
+  font-family: 'ChesnaGroteskMedium';
+  
 }
 
 
